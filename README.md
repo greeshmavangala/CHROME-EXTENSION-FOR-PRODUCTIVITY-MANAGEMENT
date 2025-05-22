@@ -93,7 +93,7 @@ Server will run at http://localhost:5000.
 
 ---
 
-3. Load the Chrome Extension
+## Load the Chrome Extension
 
 -Go to chrome://extensions/
 
@@ -122,16 +122,6 @@ Returns a summary of total time spent per hostname
 
 ---
 
-## example of output
-
-{
-  "youtube.com": 320,
-  "google.com": 120,
-  "stackoverflow.com": 90
-}
-
----
-
 ## Permissions (Chrome Extension)
 
 manifest file includes:
@@ -152,6 +142,8 @@ This allows it to read active tabs and monitor user navigation.
 ### Output
 
 ![Image](https://github.com/user-attachments/assets/2adb1175-0fff-4e20-83f6-cec9802953c6)
+
+
 
 
 ![Image](https://github.com/user-attachments/assets/20b6e77a-12cf-4e10-b7c1-f693372056f0)
