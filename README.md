@@ -151,6 +151,11 @@ This allows it to read active tabs and monitor user navigation.
 
 ### Output
 
+![Image](https://github.com/user-attachments/assets/2adb1175-0fff-4e20-83f6-cec9802953c6)
+
+
+![Image](https://github.com/user-attachments/assets/20b6e77a-12cf-4e10-b7c1-f693372056f0)
+
 
 
 
